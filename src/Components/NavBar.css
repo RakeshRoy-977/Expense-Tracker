@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+.NavBox{
+    background-color: blue;
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5px;
+    font-family: 'Poppins', sans-serif;
+
+}
+/* 
+.rightSide{
+    
+} */
+
+.leftSide{
+    display: flex;
+    gap: 5px;
+}
+
+.titelText{
+    color: white;
+    font-size: 50px;
+}
+
+.codeBtn{
+    padding: 10px;    
+    border-radius: 8px;
+    cursor: pointer;
+    
+}
+.codeBtn:hover{
+   background-color: aqua;
+}
+.LinkedinBtn{
+    padding: 10px;    
+    border-radius: 8px;
+    cursor: pointer;
+}
+.LinkedinBtn:hover{
+    background-color: aqua;
+}

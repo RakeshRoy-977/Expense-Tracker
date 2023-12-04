@@ -1,0 +1,25 @@
+
+
+.OuterAppBox{
+    display: flex;
+    justify-content: center;
+}
+.AppBox{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    height: 40vh;
+    width: 40vw;
+}
+
+.TotalMoney{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.TotalMoney p{
+    font-size: 2em;
+}
+
+.TransactionsInput{
+    font-size: 2em;
+}
+
