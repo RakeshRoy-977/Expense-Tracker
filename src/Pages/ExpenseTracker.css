@@ -12,7 +12,7 @@
 }
 
 .TotalMoney{
-    border: 2px solid black;
+    /* border: 2px solid black; */
     border-radius: 10px;
 }
 .TotalMoney p{
@@ -20,6 +20,12 @@
 }
 
 .TransactionsInput{
+    font-size: 2em;
+}
+.Transactions{
+    /* background-color: blue; */
+}
+.Transactions p{
     font-size: 2em;
 }
 
